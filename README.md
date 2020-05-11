@@ -6,3 +6,10 @@ A bank account management system implemented in c++
 - Users can create new accounts and modify them
 - WIthdrawal and Deposit features enabled
 - Users can have savings or current accounts with minimum deposit thresholds
+
+# Tools used
+Visual C++
+
+# What I learned
+- Error handling
+- User Account Management
