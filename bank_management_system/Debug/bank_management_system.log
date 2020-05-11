@@ -1,0 +1,3 @@
+﻿  bank_management_system.cpp
+C:\Users\glory\source\repos\bank_management_system\bank_management_system\bank_management_system.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  bank_management_system.vcxproj -> C:\Users\glory\source\repos\bank_management_system\Debug\bank_management_system.exe
